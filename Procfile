@@ -1,0 +1,1 @@
+worker: python shuffle_bot.py
